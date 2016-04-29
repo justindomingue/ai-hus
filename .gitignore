@@ -1,0 +1,5 @@
+logs/*
+bin/*
+.idea/workspace.xml
+constants.txt
+out/*
