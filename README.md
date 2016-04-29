@@ -7,4 +7,4 @@
 
 The TAs provided the code to interact with the game board and play moves. My code is in ``/src/student_player``.
 
-
+To learn the weights of the evaluation function, I used my own ML library available on [Github](https://github.com/justindomingue/ml).
