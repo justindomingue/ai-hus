@@ -2,6 +2,8 @@
 
 > Term project: building an agent to play the game of Hus.
 
+**NOTE.** Does not compile. Will push a new version soon.
+
 - **My best player**. Monte-Carlo tree search
 - **Other players**. Alpha-Beta pruning and variants of Alpha-Beta pruning
 
